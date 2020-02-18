@@ -1,0 +1,4 @@
+C:\Users\benja\AppData\Local\Temporary Projects\InitailLife\bin\Debug\InitailLife.exe
+C:\Users\benja\AppData\Local\Temporary Projects\InitailLife\bin\Debug\InitailLife.pdb
+C:\Users\benja\AppData\Local\Temporary Projects\InitailLife\obj\x86\Debug\InitailLife.exe
+C:\Users\benja\AppData\Local\Temporary Projects\InitailLife\obj\x86\Debug\InitailLife.pdb

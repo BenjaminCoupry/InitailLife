@@ -1,0 +1,10 @@
+C:\Users\benja\AppData\Local\Temporary Projects\InitailLife\bin\Release\InitailLife.exe
+C:\Users\benja\AppData\Local\Temporary Projects\InitailLife\bin\Release\InitailLife.pdb
+C:\Users\benja\AppData\Local\Temporary Projects\InitailLife\obj\x86\Release\InitailLife.exe
+C:\Users\benja\AppData\Local\Temporary Projects\InitailLife\obj\x86\Release\InitailLife.pdb
+C:\Users\benja\documents\visual studio 2010\Projects\InitailLife\InitailLife\obj\x86\Release\InitailLife.exe
+C:\Users\benja\documents\visual studio 2010\Projects\InitailLife\InitailLife\obj\x86\Release\InitailLife.pdb
+C:\Users\benja\Documents\Visual Studio 2010\Projects\InitailLife\InitailLife\bin\Release\InitailLife.exe
+C:\Users\benja\Documents\Visual Studio 2010\Projects\InitailLife\InitailLife\bin\Release\InitailLife.pdb
+C:\Users\benja\Documents\Visual Studio 2010\Projects\InitailLife\InitailLife\obj\x86\Release\InitailLife.csprojAssemblyReference.cache
+C:\Users\benja\Documents\Visual Studio 2010\Projects\InitailLife\InitailLife\obj\x86\Release\InitailLife.csproj.CoreCompileInputs.cache
